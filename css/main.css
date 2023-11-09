@@ -1,0 +1,56 @@
+.zag{
+	text-align: center;
+}
+body{
+	background: url(../img/t.jpg);
+	background-size: contain;
+	background-size: cover;
+
+}
+.q{
+	margin-top: 270px;
+	margin-left: 90px;
+}
+.w{
+	display: flex;
+}
+.q1{
+	margin-top: 270px;
+	margin-left: 100px;
+}
+.q2{
+	margin-top: 270px;
+	margin-left: 120px;
+}
+.q3{
+	margin-top: 140px;
+	margin-left: 350px;
+}
+.q4{
+	margin-top: 140px;
+	margin-left: 230px;
+}
+.q5{
+	margin-top: 140px;
+	margin-left: 300px;
+}
+p{
+	color:red;
+}
+.q6{
+	margin-top: 140px;
+	margin-left: 500px;
+}
+.q7{
+	margin-top: 140px;
+	margin-left: 600px;
+}
+.q8{
+	margin-top: 140px;
+	margin-left: 820px;
+	font-size: 30px;
+	font-weight: bold;
+}
+.e{
+	margin-top: 300px;
+}
